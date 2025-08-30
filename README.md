@@ -1,6 +1,6 @@
 ### 🌌 SolarGuard-X
 
-#Real-time Halo CME (Coronal Mass Ejection) Detection & Prediction
+Real-time Halo CME (Coronal Mass Ejection) Detection & Prediction
 ISRO Hack2Vision 2025 – Problem Statement 10
 
 ## 📖 Overview
